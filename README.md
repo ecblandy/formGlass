@@ -1,3 +1,17 @@
-# formGlass
+# FORMGLASS
+> Status: Developed ✅
 
-Estudando sobre melhorias CSS, como deixar um layout transparente em forma de vidro. Além de testar bastante sobre position e pseudo classes como :focus e :valid.
+*Desenvolvi esse projeto visando me aprofundar em CSS.*
+
+### Informações de estudos:
+
+- Pseudo classes.
+- Position.
+- Layout transparente.
+
+### Tecnologias usadas:
+
+- **CSS**
+- **HTML**
+
+|![Projeto imagem](./img/bc84dcfa-eaf3-4f6f-9c24-643b79679c0e.jpg)
